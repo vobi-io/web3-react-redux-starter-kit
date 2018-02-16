@@ -28,7 +28,7 @@ git checkout with_truffle_2
 npm install testrpc -g
 npm start
 ```
-The command `npm start` will setup the project and serve it on `localhost:3000`.
+The command `npm start` will setup the project and serve it on `localhost:4000`.
 
 Install [meta mask](https://metamask.io/) chrome extension before continuing. You should see something like below.
 
